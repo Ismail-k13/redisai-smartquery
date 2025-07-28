@@ -1,0 +1,3 @@
+redisai
+redis
+numpy

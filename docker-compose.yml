@@ -1,0 +1,6 @@
+services:
+  redisai:
+    image: redislabs/redisai:1.2.6-cpu-bionic
+    container_name: redisai
+    ports:
+      - "6379:6379"
